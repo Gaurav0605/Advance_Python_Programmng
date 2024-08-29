@@ -24,3 +24,4 @@ The **Terrorist Global Analysis** project provides an in-depth analysis of globa
 │   ├──  
 │
 └── README.md                # Project documentation
+#Link for the poject preview https://colab.research.google.com/drive/1zZAVeF61AaWDmNk6OvZwjBxU-y50Fv6r?usp=sharing
